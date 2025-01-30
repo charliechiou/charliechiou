@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Computer Architecture and Operating System**
 
+- :microscope: I'm from [**Intelligent Hyperspectral Computing Laboratory**](https://sites.google.com/view/chiahsianglin/lab?authuser=0)
+
 - 📫 How to reach me **charlie910417@gmail.com**
 
 <p align="left">
