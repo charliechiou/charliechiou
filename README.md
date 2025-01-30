@@ -21,5 +21,5 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charliechiou&label=Profile%20views&color=0e75b6&style=plastic" alt="charliechiou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charliechiou&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="charliechiou" /> </p>
 
