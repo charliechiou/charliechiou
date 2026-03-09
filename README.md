@@ -10,9 +10,6 @@
 <p align="left">
 </p>
 
-![Charliechiou's GitHub stats](https://github-readme-stats.vercel.app/api?username=charliechiou&rank_icon=github)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=charliechiou&show_icons=true&locale=en&layout=compact" alt="charliechiou" style="width: 45%; height: 200px; object-fit: cover;">
-
 
 <div align="center">
 
